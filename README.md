@@ -2,14 +2,11 @@
   <img src="https://github.com/user-attachments/assets/d31b6e92-02a2-4172-9050-a0cd6910f281" width="100%" height="300px" style="object-fit: cover;">
 </p>
 
-<picture>
-  <img src="https://github.com" width="100%" alt="Banner">
-</picture>
-
 <p align="center">
-  <img src="https://jsdelivr.net" width="50" height="50" alt="Python" />
-  <img src="https://jsdelivr.net" width="50" height="50" alt="C++" />
+  <img src="https://github.com" width="60" alt="Python" />
+  <img src="https://github.com" width="60" alt="C++" />
 </p>
+
 
 
 
