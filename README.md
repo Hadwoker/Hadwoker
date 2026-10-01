@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="C++" />
+  <code><b>🐍 Python</b></code> 
+  <code><b>⚡ C++</b></code>
 </p>
+
 
 
