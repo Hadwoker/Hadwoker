@@ -4,11 +4,9 @@
 
 ### Языки:
 <p align="left">
-  <img src="https://wikimedia.org" alt="C++" width="50" height="50" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://wikimedia.org" alt="Python" width="50" height="50" />
+   <img src="https://github.com/user-attachments/assets/b160bc74-a7f3-43cb-83ea-51609b11cd90" alt="Python" width="50" height="50" />
+   <img src="https://github.com/user-attachments/assets/412ec653-9028-422a-8b9d-6f32ced8a172" alt="C++" width="50" height="50" />
 </p>
-
 
 
 
