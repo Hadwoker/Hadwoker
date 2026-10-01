@@ -7,9 +7,10 @@
 </p>
 
 <p align="center">
-  <code><b>🐍 Python</b></code> 
-  <code><b>⚡ C++</b></code>
+  <img src="https://jsdelivr.net" width="50" height="50" alt="Python" style="margin-right: 15px;" />
+  <img src="https://jsdelivr.net" width="50" height="50" alt="C++" />
 </p>
+
 
 
 
