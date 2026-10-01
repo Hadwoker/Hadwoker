@@ -4,9 +4,9 @@
 
 ### Языки:
 <p align="left">
-  <img src="https://githubusercontent.com" alt="Python" width="50" height="50" />
-  &nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="C++" width="50" height="50" />
+  <img src="https://wikimedia.org" alt="C++" width="50" height="50" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://wikimedia.org" alt="Python" width="50" height="50" />
 </p>
 
 
